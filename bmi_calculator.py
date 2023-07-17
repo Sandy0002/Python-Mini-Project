@@ -10,7 +10,7 @@ try:
         height = int(height[0])*12 + int(height[2:4])
 
     else:
-        weight = st.text_input("Enter your weight (kgs")
+        weight = st.text_input("Enter your weight (kgs)"
         wt = int(weight)
 
         height = st.text_input("Enter your height in (mts or cms)")
