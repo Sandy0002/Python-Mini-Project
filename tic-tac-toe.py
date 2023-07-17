@@ -1,7 +1,6 @@
 from tkinter import *
 
 obj=Tk()
-
 ls=[]
 #ti avoid borders from canvas make highlightthickness=0 
 # In order to get which key is pressed we can event.widget.cget("text")
