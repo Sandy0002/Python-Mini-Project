@@ -33,5 +33,3 @@ try:
             break
 except:
     pass
-
-description = st.text_area("Any explanation:")
