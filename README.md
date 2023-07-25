@@ -1,1 +1,1 @@
-This repository consists of programs which are built to learn more about python.
+# Exploration of a gigantic language
