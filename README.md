@@ -8,7 +8,7 @@ Repository contains programs that are made for self learning and exploration of 
 + [Game Demo](#gameDemo) 
 + [Web Applications](#webApps) 
 + [Advanced Programs](#advance)
-+ [LICNESE](LICENSE)
++ [LICENESE](LICENSE)
 
 
 
