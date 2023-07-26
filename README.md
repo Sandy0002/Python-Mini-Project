@@ -29,4 +29,3 @@ There might be very few people who are programmers and not aware of its applicat
 Here I have made a program that use **tkinter** library to build a classic game tic-tac-toe.Coordinates of the screen were used to build the interface. In this each grid consists of 2 buttons z<sub>i</sub> denoting for **zero** and c<sub>i</sub> denoting for **cross** for the i<sup>th</sup> grid.
 
 <h4>Sample photo</h4>
-![tic-tac-toe](https://github.com/Sandy0002/Python-Mini-Project/assets/110614803/4d025bf8-c6e5-4edf-9365-c67623bb5785)
