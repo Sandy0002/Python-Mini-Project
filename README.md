@@ -47,7 +47,7 @@ App [link](https://dia9tlgbh1c.streamlit.app/)
 
 
 <a id="advance"></a><h2>Advance Programs</h2>
-As we have seen how easy it is to build programs with python we can build very large projects easily with python such as machine learning, deep learning, desktop applications or games. They are many times used in real time processing applications as well. Checkout my machine learning and deep learning exercises repository that consists of these kinds of programs.
+As we have seen how easy it is to build programs with python we can build very large projects easily with python such as machine learning, deep learning, desktop applications or games. They are useful to build virtual assistants as well. Checkout my machine learning and deep learning exercises repository that consists of these kinds of programs.
 
 + [Machine Learning Programs](https://github.com/Sandy0002/Machine-Learning-Exercises)
 + [Deep Learning Programs](https://github.com/Sandy0002/Deep-Learning-Exercises)
