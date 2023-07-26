@@ -8,6 +8,7 @@ Repository contains programs that are made for self learning and exploration of 
 + [Game Demo](#gameDemo) 
 + [Web Applications](#webApps) 
 + [Advanced Programs](#advance)
++ [LICNESE](LICENSE)
 
 
 
@@ -51,3 +52,6 @@ As we have seen how easy it is to build programs with python we can build very l
 
 + [Machine Learning Programs](https://github.com/Sandy0002/Machine-Learning-Exercises)
 + [Deep Learning Programs](https://github.com/Sandy0002/Deep-Learning-Exercises)
+
+## LICENSE
+[MIT LICENSE](LICENSE)
