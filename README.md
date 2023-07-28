@@ -5,8 +5,8 @@ Repository contains programs that are made for self learning and exploration of 
 ## Contents
 + [About](#intro) 
 + [Applications](#applications) 
-+ [Game Demo](#gameDemo) 
-+ [Web Applications](#webApps) 
++ [Game Demo](#games) 
++ [Web Applications](#webapps) 
 + [Advanced Programs](#advance)
 + [LICENESE](LICENSE)
 
@@ -25,7 +25,7 @@ There might be very few people who are programmers and not aware of its applicat
 + Data Science
 + Artificial Intelligence
 
-<a id="gameDemo"></a><h2>Game Demo</h2>
+<a id="games"></a><h2>Game Demo</h2>
 
 Here I have made a program that use **tkinter** library to build a classic game tic-tac-toe.Coordinates of the screen were used to build the interface. In this each grid consists of 2 buttons z<sub>i</sub> denoting for **zero** and c<sub>i</sub> denoting for **cross** for the i<sup>th</sup> grid. 
 
@@ -35,7 +35,7 @@ Here I have made a program that use **tkinter** library to build a classic game 
 
 Simply download and run this [code](https://github.com/Sandy0002/Python-Mini-Project/blob/main/Game/tic-tac-toe.py) in your IDE and it will work.
 
-<a id="webApps"></a><h2>Web Applications</h2>
+<a id="webapps"></a><h2>Web Applications</h2>
 
 Python is a very powerful tool for building production level web applications. It consists quite resourceful frameworks such as **Django** and **Flask**. \
 Just to show how easy and how quickly we can build we apps. Checkout this [code](https://github.com/Sandy0002/Python-Mini-Project/blob/main/Web%20Apps/Streamlit/bmi_calculator/code.py)
