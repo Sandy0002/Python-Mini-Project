@@ -38,7 +38,7 @@ Simply download and run this [code](https://github.com/Sandy0002/Python-Mini-Pro
 <a id="webapps"></a><h2>Web Applications</h2>
 
 Python is a very powerful tool for building production level web applications. It consists quite resourceful frameworks such as **Django** and **Flask**. \
-Just to show how easy and how quickly we can build we apps. Checkout this [code](https://github.com/Sandy0002/Python-Mini-Project/blob/main/Web%20Apps/Streamlit/bmi_calculator/code.py)
+Just to show how easy and how quickly we can build we apps. Checkout this [code](https://github.com/Sandy0002/Python-Mini-Project/blob/main/Web_Apps/Streamlit/bmi_calculator.py)
 
 Here is a demo picture of what it looks like. Here this web application is made with streamlit to measure **Body Mass Index**
 
